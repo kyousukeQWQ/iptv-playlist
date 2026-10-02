@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="AXN 亚洲台湾" group-title="台湾频道",AXN 亚洲台湾
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 tvg-name="Ando TV" group-title="大陆频道",Ando TV
+http://play.kankanlive.com/live/1711956137852982.m3u8
+#EXTINF:-1 tvg-name="CCTV-4 中文国际（欧）" group-title="大陆频道",CCTV-4 中文国际（欧）
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="东方卫视国际" group-title="大陆频道",东方卫视国际
+https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
+#EXTINF:-1 tvg-name="吉林乡村频道" group-title="大陆频道",吉林乡村频道
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+#EXTINF:-1 tvg-name="吉林市频道" group-title="大陆频道",吉林市频道
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
+#EXTINF:-1 tvg-name="吉林影视频道" group-title="大陆频道",吉林影视频道
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
+#EXTINF:-1 tvg-name="吉林生活频道" group-title="大陆频道",吉林生活频道
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
+#EXTINF:-1 tvg-name="美国之音中文电视" group-title="大陆频道",美国之音中文电视
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+#EXTINF:-1 tvg-name="赤峰综合新闻频道" group-title="大陆频道",赤峰综合新闻频道
+http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+#EXTINF:-1 tvg-name="通化电视台" group-title="大陆频道",通化电视台
+http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+#EXTINF:-1 tvg-name="Golden Jade 黄金翡翠台" group-title="香港频道",Golden Jade 黄金翡翠台
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+#EXTINF:-1 tvg-name="Jade 翡翠台" group-title="香港频道",Jade 翡翠台
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+#EXTINF:-1 tvg-name="RTHK 港台电视31" group-title="香港频道",RTHK 港台电视31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-name="RTHK 港台电视32" group-title="香港频道",RTHK 港台电视32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 tvg-name="RTHK 港台电视33" group-title="香港频道",RTHK 港台电视33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:-1 tvg-name="RTHK 港台电视34" group-title="香港频道",RTHK 港台电视34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+#EXTINF:-1 tvg-name="RTHK 港台电视35" group-title="香港频道",RTHK 港台电视35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+#EXTINF:-1 tvg-name="tvN Asia HD" group-title="香港频道",tvN Asia HD
+http://58.8.186.128:10005/bysid/2518
+#EXTINF:-1 tvg-name="亚洲剧场频道" group-title="香港频道",亚洲剧场频道
+http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
+#EXTINF:-1 tvg-name="美亚电影台" group-title="香港频道",美亚电影台
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
