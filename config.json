@@ -1,0 +1,71 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "★精选直播源（203频道）",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/kyousukeQWQ/iptv-playlist@main/playlist.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "中文频道精简版",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/kyousukeQWQ/iptv-playlist@main/chinese.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "iptv-org 中国",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "iptv-org 中国香港",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/hk.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "iptv-org 中国台湾",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "iptv-org 日本",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/jp.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "iptv-org 英国",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "iptv-org 美国",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "iptv-org 俄罗斯",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "iptv-org 乌克兰",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/ua.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "iptv-org 法国",
+      "type": 0,
+      "url": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+      "playerType": 1
+    }
+  ]
+}
